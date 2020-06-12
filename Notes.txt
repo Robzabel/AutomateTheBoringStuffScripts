@@ -9,11 +9,11 @@ other non blank strings evaluate to Truthey. For numbers, the value 0 or 0.0 is 
 all other values evaluate to Truthey. You can use the bool() function to return a boolean
 value of the peramaters passed to it. so bool(0) is False whereas bool(42) is True.
 
-#While loops in While_Loop_BreaakContinue.py show the break statements, you can use a break statement
-if you have an infinate while loop such as (while True:).You can also have the continue
-statement which jumps the loop back to the sart. in the program, once spam gets to 3 the if confition is
-true so it goes through to the continue command which misses the print statement and jumps back to the
-start of the program.
+#While loops in While_Loop_BreaakContinue.py show the break statements, you can use a break 
+statement if you have an infinate while loop such as (while True:).You can also have the 
+continue statement which jumps the loop back to the sart. in the program, once spam gets to 
+3 the if confition is true so it goes through to the continue command which misses the print 
+statement and jumps back to the start of the program.
 
 #For loops in the For_loop_range.py show the range function. you can type range(10) into the
 interactive shell and it will come back with range(0,10) becaue it shows a  valuse called a
