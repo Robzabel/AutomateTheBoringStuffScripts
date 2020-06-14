@@ -4,7 +4,7 @@ import pyperclip
 
 
 pyperclip.copy('hello world')
-pyperclip.paste()
+print(pyperclip.paste())
 
 
 print(randint(1,56))
