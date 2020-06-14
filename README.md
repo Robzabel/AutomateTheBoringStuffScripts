@@ -1,5 +1,5 @@
 # AutomateTheBoringStuffScripts
 
-This is thae repository for the scripts that have/will be writing as i learn python and follow the Udemy course by Al Sweigart.
+This is thae repository for the scripts that I have/will be writing as i learn python and follow the Udemy course by Al Sweigart.
 
 Please feel free to browse and suggest amendments where necessary 
