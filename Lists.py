@@ -58,5 +58,5 @@ print(new * 3)      #Example using the mulitiplication operator to print the lis
 print(list('Hello World'))  #Example of using the list function to create a list from a string
 
 howdy = "howdy"
-listNew = [ 'hello', 'Wosson', 'Yea you', 'howdy']  #example of using the in/not in operators to return true or false values, needs to go in interactive shell
+listNew = [ 'hello', 'Wosson', 'Yea you', 'howdy']  #example of using the in/not in operators to return true or false values, needs to go in interactive s
 "howdy" in 'hello', 'Wosson', 'Yea you', 'howdy'
