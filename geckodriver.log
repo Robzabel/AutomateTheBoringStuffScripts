@@ -1,0 +1,72 @@
+1593856061943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hl3r7b4dXxDd"
+1593856064298	Marionette	INFO	Listening on port 38761
+1593856064351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593856092665	Marionette	INFO	Stopped listening on port 38761
+1593856232427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PFY0bEFSjvML"
+1593856234754	Marionette	INFO	Listening on port 33141
+1593856234836	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593856438134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ankk1KVyQVmU"
+1593856440382	Marionette	INFO	Listening on port 40053
+1593856440441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593856453966	Marionette	INFO	Stopped listening on port 40053
+1593856668853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8iEOzK8LrWo5"
+1593856671832	Marionette	INFO	Listening on port 34891
+1593856671864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593856703655	Marionette	INFO	Stopped listening on port 34891
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/12a1fc6f5b52f1d1ea55e9df2c3613c3559ed7a1.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://static.chatra.io/jscss/12a1fc6f5b52f1d1ea55e9df2c3613c3559ed7a1.js?meteor_js_resource=true, line 61: Script terminated by timeout at:
+sockjs-0.3.4.js/l</T.websocket/o.ws.onmessage@https://static.chatra.io/jscss/12a1fc6f5b52f1d1ea55e9df2c3613c3559ed7a1.js?meteor_js_resource=true:61:24455
+
+JavaScript warning: https://www.google.com/, line 9: Script terminated by timeout at:
+I.prototype.g@https://www.google.com/:9:206
+p@https://www.google.com/:11:824
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.co.uk"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593857281289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x3hV7fmWc7IF"
+1593857283872	Marionette	INFO	Listening on port 42807
+1593857283902	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593857410206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ujdn0xgYhdih"
+1593857412601	Marionette	INFO	Listening on port 33581
+1593857412616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593857420838	Marionette	INFO	Stopped listening on port 42807
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+1593857559420	Marionette	INFO	Stopped listening on port 33581
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593857561176	Marionette	INFO	Stopped listening on port 33141
+1593857601501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0uUxmnDkQ1un"
+1593857603850	Marionette	INFO	Listening on port 40717
+1593857603911	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593857726747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.i9zEzWWBWkO6"
+1593857728990	Marionette	INFO	Listening on port 34639
+1593857729055	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nisbets.co.uk"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593857773706	Marionette	INFO	Stopped listening on port 34639
+1593857775178	Marionette	INFO	Stopped listening on port 40717
+1593857787826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V7jLUfPNZqgU"
+1593857790061	Marionette	INFO	Listening on port 40197
+1593857790140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593857801427	Marionette	INFO	Stopped listening on port 40197
+1593858266849	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cadW6YEWe4f8"
+1593858269127	Marionette	INFO	Listening on port 36935
+1593858269156	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593858388960	Marionette	INFO	Stopped listening on port 36935
+1593858657821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PNYpzLJ0LKB9"
+1593858660395	Marionette	INFO	Listening on port 40089
+1593858660434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593858670629	Marionette	INFO	Stopped listening on port 40089
