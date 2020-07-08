@@ -70,3 +70,7 @@ console.error: "Store does not have a valid reducer. Make sure the argument pass
 1593858660395	Marionette	INFO	Listening on port 40089
 1593858660434	Marionette	WARN	TLS certificate errors will be ignored for this session
 1593858670629	Marionette	INFO	Stopped listening on port 40089
+1594059547944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SRp2jxMiSGGD"
+1594059553376	Marionette	INFO	Listening on port 34197
+1594059553461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594059569141	Marionette	INFO	Stopped listening on port 34197
