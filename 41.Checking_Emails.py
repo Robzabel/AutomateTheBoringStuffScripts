@@ -1,6 +1,6 @@
 import imapclient, pyzmail
 connectionObject = imapclient.IMAPClient('imap.gmail.com', ssl=True)#create connection object
-print(connectionObject.login('robertozabelio31@gmail.com', 'Capital123!'))#print the login call to see if it was a success
+print(connectionObject.login('ro************@gmail.com', '*******'))#print the login call to see if it was a success
 connectionObject.select_folder('INBOX', readonly=True)#select the inbox folder and put it in read only
 UID = connectionObject.search(['SINCE', '07-Jul-2020'])   #this returns Unique IDs of each message
 print(UID)#print the UIDs
